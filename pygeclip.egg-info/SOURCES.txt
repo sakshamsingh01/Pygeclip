@@ -1,0 +1,7 @@
+README.md
+setup.py
+pygeclip/__init__.py
+pygeclip.egg-info/PKG-INFO
+pygeclip.egg-info/SOURCES.txt
+pygeclip.egg-info/dependency_links.txt
+pygeclip.egg-info/top_level.txt
