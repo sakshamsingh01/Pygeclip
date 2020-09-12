@@ -13,7 +13,11 @@ I faced a lot of issues in beginning and finally got it to work. So I
 made a simple package which you can use to retrieve the data from their API easily.
 
 <h2>Usage</h2>
-1. Make an instance of the class pgconn()
+1. Import the package
+
+        from pygeclip import *
+
+2. Make an instance of the class pgconn()
         
         item = pgconn("url", "api_key")
     
@@ -22,7 +26,7 @@ This takes two parameters,
 **Your api key**
 You can refer to PageClip documentation for both (it's easily undestandable, they have great documentation!)
     
-2. Call the data() function
+3. Call the data() function
         
         item.data()
         
