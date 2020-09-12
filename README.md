@@ -26,7 +26,12 @@ You can refer to PageClip documentation for both (it's easily undestandable, the
         
         item.data()
         
-This returns the data from the api in **json** format and you can use it do do your magic!    
+This returns the data from the api in **json** format and you can use it do do your magic!   
+
+<h3>Installation Guide</h3>
+Install it using PIP
+
+        pip install pygeclip
 
 <h3>Note</h3>
 This is an initial commit. I will be adding all features in this package soon!
