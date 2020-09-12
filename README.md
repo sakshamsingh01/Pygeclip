@@ -3,7 +3,7 @@ A simple Python Package for seamless integeration with Pageclip API
 
 <h2>Description</h2>
 Pageclip provides seamless integeration for static html forms. 
-The data is easily collected and managed on the Pageclip serve.
+The data is easily collected and managed on the Pageclip server.
 They also provide a REST API for retrieval of the data in JSON 
 and CSV format. 
 

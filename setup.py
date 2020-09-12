@@ -11,7 +11,7 @@ setuptools.setup(
     description="A small package which helps in easy integeration with PageClip API",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/SakshamSingh-v2/Pygeclip",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
