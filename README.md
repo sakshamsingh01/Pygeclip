@@ -8,7 +8,7 @@ They also provide a REST API for retrieval of the data in JSON
 and CSV format. 
 
 **The Problem?**
-They don't have a proper documentation for using the API with Python.
+They don't have a proper documentation for **using the API with Python**.
 I faced a lot of issues in beginning and finally got it to work. So I 
 made a simple package which you can use to retrieve the data from their API easily.
 
